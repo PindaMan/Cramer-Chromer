@@ -1,0 +1,7 @@
+D:\_Programming\Visual Studio\C#\Cramer Chromer\Cramer Chromer\bin\Release\Cramer Chromer.exe.config
+D:\_Programming\Visual Studio\C#\Cramer Chromer\Cramer Chromer\bin\Release\Cramer Chromer.exe
+D:\_Programming\Visual Studio\C#\Cramer Chromer\Cramer Chromer\bin\Release\Cramer Chromer.pdb
+D:\_Programming\Visual Studio\C#\Cramer Chromer\Cramer Chromer\obj\Release\Cramer Chromer.csproj.CoreCompileInputs.cache
+D:\_Programming\Visual Studio\C#\Cramer Chromer\Cramer Chromer\obj\Release\Cramer Chromer.exe
+D:\_Programming\Visual Studio\C#\Cramer Chromer\Cramer Chromer\obj\Release\Cramer Chromer.pdb
+D:\_Programming\Visual Studio\C#\Cramer Chromer\Cramer Chromer\obj\Release\Cramer Chromer.csproj.AssemblyReference.cache
