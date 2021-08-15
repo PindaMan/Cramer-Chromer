@@ -1,5 +1,5 @@
-﻿using System.Runtime.InteropServices;
-using System.Diagnostics;
+﻿using System.Diagnostics;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
 namespace Cramer_Chromer
@@ -49,7 +49,7 @@ namespace Cramer_Chromer
             {
                 return p;
             }
-            
+
             p = temp;
             return p;
         }
@@ -97,7 +97,8 @@ namespace Cramer_Chromer
         private static int MinutesRemaining()
         {
             System.DateTime currentTime = System.DateTime.UtcNow;
-            if(currentTime.Hour == 21)
+            //Half Time Report (16:00 UTC/12:00 EST) or Mad Money (22:00 UTC/18:00 EST) 
+            if (currentTime.Hour == 15 || currentTime.Hour == 21)
             {
                 return (60 - currentTime.Minute);
             }
